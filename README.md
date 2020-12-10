@@ -1,1 +1,1 @@
-# MiniProject
+# Student Report Card Handling System
